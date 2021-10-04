@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyashi
 - 👀 I’m interested in mobile development / game development / Control systems / Computer vision / AI
-- 🌱 I’m currently learning Dart / Flutter / Unreal Engine 4
+- 🌱 I’m currently learning Dart / Flutter / Unreal Engine 4 / Python
 - 💞️ I’m looking to collaborate on Game projects / Robotics / Machine learning projects
 
 
