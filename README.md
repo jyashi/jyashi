@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jyashi
 - ![Leetcode Stats](https://leetcard.jacoblin.cool/jyashi)
-- 👀 I’m interested in mobile development / game development / Control systems / Computer vision / AI
-- 🌱 My  skills include Dart / Flutter , Python, Unreal Engine, Solidworks among others
+- 👀 Currently working in mobile development / Simulations / Control systems using Kotlin / Dart / Python / Unreal Engine
 
 
 
