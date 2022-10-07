@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jyashi
+- 👋 Hello traveller, I’m @jyashi
 
 - 👀 Currently working in mobile development / Simulations / Control systems using Kotlin / Dart / Python / Unreal Engine
 
