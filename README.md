@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jyashi
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/jyashi)
+//- ![Leetcode Stats](https://leetcard.jacoblin.cool/jyashi)
 - 👀 Currently working in mobile development / Simulations / Control systems using Kotlin / Dart / Python / Unreal Engine
 
 
