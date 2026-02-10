@@ -1,6 +1,25 @@
-- 👋 Hello traveller, I’m @jyashi
+# Nav | Founder & Engineer ⚙️🤖
 
-- 👀 Currently working in mobile development / Simulations / Control systems using Kotlin / Dart / Python / Unreal Engine
+> Transforming logistics through autonomous agents and intelligent workflows.
+
+---
+
+### 🧠 Current Obsessions
+- **Agentic AI:** Building workflows that think, act, and self-correct.
+- **Logistics DX:** Solving the "2024 Problem" in Japan with AI-powered telematic agents.
+- 
+### 🏗 Past Engineering Lives
+| Domain | Tech Stack |
+| :--- | :--- |
+| **AI / Agents** | Python, OpenAI, Gemini, LangChain, MCP |
+| **Mobile** | Flutter, Dart, Kotlin (Native Android) |
+| **Game Dev / Systems** | C++, Unreal Engine, Blueprints |
+
+---
+"The best way to predict the future is to build the agent that creates it."
+
+# AI wrote all of this...
+
 
 
 
