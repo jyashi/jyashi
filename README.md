@@ -6,7 +6,7 @@
 
 ### 🧠 Current Obsessions
 - **Agentic AI:** Building workflows that think, act, and self-correct.
-- **Logistics DX:** Solving the "2024 Problem" in Japan with AI-powered telematic agents.
+- **Logistics DX:** Solving logistics with AI-powered telematic agents.
   
 ### 🏗 Past Engineering Lives
 | Domain | Tech Stack |
